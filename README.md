@@ -1,6 +1,5 @@
 # Detecting Potential Fraud Applications using SOM
-
-### For explanation on SOM, kindly refer to the file `Credit_card_fraud_customer_segmentation.ipynb`. Everything is described with references.
+For explanation on SOM, kindly refer to the file `Credit_card_fraud_customer_segmentation.ipynb`. Everything is described with references.
 
 ### Algorithm Used: 
 Self Organising Maps (Unsupervised Learning)
